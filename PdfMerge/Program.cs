@@ -1,6 +1,4 @@
-﻿using System;
-using System.IO;
-using PdfSharp.Pdf;
+﻿using PdfSharp.Pdf;
 using PdfSharp.Pdf.IO;
 
 namespace PdfMerge
