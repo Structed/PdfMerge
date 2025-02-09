@@ -1,6 +1,6 @@
 Super simple CLI tool to merge PDFs.
 
-## Prerrequisites
+## Prerequisites
 .NET 9 SDK for building the project. Get it at [https://dot.net]([https://dot.net](https://dotnet.microsoft.com/en-us/download))
 
 ## Usage
