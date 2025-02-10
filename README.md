@@ -1,6 +1,6 @@
 Super simple CLI tool to merge PDFs.
 
-GEt the Win x64 binary here: https://github.com/Structed/PdfMerge/releases/tag/0.1
+Get the Win x64 binary here: https://github.com/Structed/PdfMerge/releases/tag/0.1
 
 # Building
 You can build the binaries for yourself (including Linux) or just run it with .NET.
